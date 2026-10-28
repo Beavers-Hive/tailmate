@@ -1,0 +1,92 @@
+[
+  {
+    "at_ms": 1000,
+    "captured_ms": 980,
+    "target_id": "empty-case-1",
+    "identity_match": true,
+    "pose_xy_m": [
+      0.5,
+      0.5
+    ],
+    "calibrated": true,
+    "tracking_ok": true,
+    "path_clear": true,
+    "stop_pressed": false,
+    "user_confirmed": false,
+    "approach_complete": false,
+    "grasp_verified": false,
+    "tray_reached": false
+  },
+  {
+    "at_ms": 1100,
+    "captured_ms": 1080,
+    "target_id": "empty-case-1",
+    "identity_match": true,
+    "pose_xy_m": [
+      0.5,
+      0.5
+    ],
+    "calibrated": true,
+    "tracking_ok": true,
+    "path_clear": true,
+    "stop_pressed": false,
+    "user_confirmed": true,
+    "approach_complete": false,
+    "grasp_verified": false,
+    "tray_reached": false
+  },
+  {
+    "at_ms": 1200,
+    "captured_ms": 1180,
+    "target_id": "empty-case-1",
+    "identity_match": true,
+    "pose_xy_m": [
+      0.5,
+      0.5
+    ],
+    "calibrated": true,
+    "tracking_ok": true,
+    "path_clear": true,
+    "stop_pressed": false,
+    "user_confirmed": false,
+    "approach_complete": true,
+    "grasp_verified": false,
+    "tray_reached": false
+  },
+  {
+    "at_ms": 1300,
+    "captured_ms": 1280,
+    "target_id": "empty-case-1",
+    "identity_match": true,
+    "pose_xy_m": [
+      0.5,
+      0.5
+    ],
+    "calibrated": true,
+    "tracking_ok": true,
+    "path_clear": true,
+    "stop_pressed": false,
+    "user_confirmed": false,
+    "approach_complete": false,
+    "grasp_verified": true,
+    "tray_reached": false
+  },
+  {
+    "at_ms": 1400,
+    "captured_ms": 1380,
+    "target_id": "empty-case-1",
+    "identity_match": true,
+    "pose_xy_m": [
+      0.5,
+      0.5
+    ],
+    "calibrated": true,
+    "tracking_ok": true,
+    "path_clear": true,
+    "stop_pressed": false,
+    "user_confirmed": false,
+    "approach_complete": false,
+    "grasp_verified": false,
+    "tray_reached": true
+  }
+]
